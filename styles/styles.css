@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  color: #383838;
+}
+
+.offers {
+  padding: 120px 104px;
+}
+
+.title {
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 1.18;
+}
+
+.line {
+  width: 100px;
+  height: 4px;
+  background: #f5bd41;
+  margin: 20px auto 0;
+}
+
+.list-offers {
+  text-align: center;
+  display: flex;
+  margin-top: 80px;
+  gap: 16px;
+}
+
+.item-offers {
+  width: 25%;
+  list-style: none;
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 15px;
+}
+
+.dsc {
+  font-size: 24px;
+  line-height: 28px;
+}
